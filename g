@@ -7,7 +7,6 @@
   "3597148479": ["All", "Panel", "Panel_Execution", "showcase alt"],
   "553631367": ["All", "Panel", "mfy"],
   "1345270232": ["All", "Panel", "mfy"],
-  "1796337428": ["Force", "Gojo", "Thomas"],
-  "9729126560": ["Force", "Okarun", "Aniyah"],
+  "1796337428": ["Force", "Thomas"],
   "2435826369": ["Force", "Marii"]
 }
