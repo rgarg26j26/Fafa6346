@@ -1,7 +1,7 @@
 {
   "DasGroup": {
     "Id": 289866163,
-    "Tag": "<b><font color=\\"#ff55ff\\">[DAS] {User}</font></b>",
+    "Tag": "<b><font color=\"#ff55ff\">[DAS] {User}</font></b>",
     "FullName": true,
     "ShowEmojis": false
   }
