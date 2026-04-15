@@ -11,5 +11,5 @@
   "2435826369": ["Force", "Marii"],
   "620178581": ["Force", "ry"],
   "4273745461": ["Force", "Elmo"],
-  "1107815994": ["All", "Wish"]
+  "1107815994": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Wish"]
 }
