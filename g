@@ -9,7 +9,6 @@
   "1796337428": ["Force", "Okarun", "Thomas"],
   "2435826369": ["Force", "Marii"],
   "620178581": ["Force", "Gojo", "ry"],
-  "4273745461": ["Force", "Elmo"],
   "1107815994": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Wish"],
   "9837829429": ["Akaza", "Buyer 1 - 1244768892010893423"],
   "463203428": ["Force", "Gojo", "Rechud"]
