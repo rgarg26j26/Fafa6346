@@ -4,12 +4,5 @@
     "Tag": "<b><font color=\"#000000\">[DAS] {User}</font></b>",
     "FullName": true,
     "ShowEmojis": false
-  },
-
-  "ProdigyHybrid": {
-    "Id": 736399002,
-    "Tag": "[<b><font color=\"#e30e06\">H</font><font color=\"#c10b05\">Y</font><font color=\"#a10904\">B</font><font color=\"#810703\">R</font><font color=\"#610502\">I</font><font color=\"#000000\">D 🤡</font></b>] {User}",
-    "FullName": true,
-    "ShowEmojis": true
   }
 }
