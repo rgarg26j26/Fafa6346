@@ -13,5 +13,5 @@
   "9837829429": ["Akaza", "Buyer 1 - 1244768892010893423"],
   "463203428": ["Force", "Gojo", "Rechud"],
   "1963463139": ["Force", "vurb"],
-  "1703411": ["Force", "Gojo", "Okarun", "Atzi"]
+  "1703411": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Atzi"]
 }
