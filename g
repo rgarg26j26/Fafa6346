@@ -9,7 +9,7 @@
   "1107815994": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Wish"],
   "9837829429": ["Akaza", "Buyer 1 - 1244768892010893423"],
   "463203428": ["Force", "Gojo", "Rechud"],
-  "1703411": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Star Platinum_STAND", "The World_STAND", "Soft & Wet_STAND", "Atzi"],
+  "1703411": ["Force", "Gojo", "Okarun", "Star Platinum_STAND", "Atzi"],
   "6029054828": ["Tusk ACT 4_STAND", "qtdr"],
   "5044068287": ["Force", "Nextiz"]
 }
