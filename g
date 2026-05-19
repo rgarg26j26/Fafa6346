@@ -11,5 +11,6 @@
   "463203428": ["Force", "Gojo", "Rechud"],
   "1703411": ["Force", "Gojo", "Okarun", "Star Platinum_STAND", "Atzi"],
   "6029054828": ["Tusk ACT 4_STAND", "qtdr"],
-  "5044068287": ["Force", "Nextiz"]
+  "5044068287": ["Force", "Nextiz"],
+  "9320671900": ["Force", "Viet"]
 }
