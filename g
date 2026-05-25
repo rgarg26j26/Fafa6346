@@ -2,7 +2,7 @@
   "9798258660": ["All", "Panel", "Panel_Execution", "IronMan", "Tusk ACT 4_STAND", "???"],
   "815108124": ["All", "Panel", "Panel_Execution", "Bleh"],
   "10451721693": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Panel", "angor"],
-  "855191102": ["All", "Panel", "Bart"],
+  "855191102": ["All", "Panel", "Tusk ACT 4_STAND", "Bart"],
   "1345270232": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Panel", "mfy"],
   "1796337428": ["Force", "Okarun", "Thomas"],
   "620178581": ["Force", "ry"],
