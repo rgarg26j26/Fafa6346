@@ -5,7 +5,6 @@
   "855191102": ["All", "Panel", "Tusk ACT 4_STAND", "IronMan", "Bart"],
   "1345270232": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Panel", "mfy"],
   "620178581": ["Force", "ry"],
-  "1107815994": ["Force", "Saiyan", "Seraph", "Saitama", "Gojo", "Okarun", "Venom", "Batman", "Akaza", "Wish"],
   "9837829429": ["Akaza", "Buyer 1 - 1244768892010893423"],
   "463203428": ["Force", "Gojo", "Rechud"],
   "1703411": ["Force", "Saiyan", "Okarun", "The World_STAND", "Made in Heaven_STAND", "Atzi"],
