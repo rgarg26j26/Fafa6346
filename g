@@ -10,5 +10,5 @@
   "1703411": ["Force", "Saiyan", "Okarun", "The World_STAND", "Made in Heaven_STAND", "Atzi"],
   "6029054828": ["Tusk ACT 4_STAND", "qtdr"],
   "5044068287": ["Force", "Nextiz"],
-  "9320671900": ["Force", "Viet"]
+  "10815764972": ["Okarun", "Cursed"]
 }
