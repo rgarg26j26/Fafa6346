@@ -9,5 +9,6 @@
   "6029054828": ["Tusk ACT 4_STAND", "qtdr"],
   "5044068287": ["Force", "Nextiz"],
   "10815764972": ["Saiyan", "Force", "Cursed"],
-  "555601665": ["Force", "g6"]
+  "555601665": ["Force", "g6"],
+  "1524589366": ["Saiyan", "lain"]
 }
