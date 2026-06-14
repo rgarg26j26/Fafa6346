@@ -10,5 +10,6 @@
   "5044068287": ["Force", "Nextiz"],
   "10815764972": ["Saiyan", "Force", "Cursed"],
   "555601665": ["Force", "g6"],
-  "1524589366": ["Saiyan", "lain"]
+  "1524589366": ["Saiyan", "lain"],
+  "16917269": ["All", "Panel", "Clubstar54"]
 }
