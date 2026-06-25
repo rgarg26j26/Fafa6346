@@ -6,6 +6,6 @@
   "1703411": ["All", "Atzi"],
   "6029054828": ["All", "Tusk ACT 4_STAND", "Panel", "qtdr"],
   "5044068287": ["Force", "Nextiz"],
-  "10815764972": ["Saiyan", "Force", "Cursed"],
+  "10815764972": ["Saiyan", "Force", "Panel", "Cursed"],
   "16917269": ["All", "Panel", "Clubstar54"]
 }
