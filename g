@@ -6,5 +6,6 @@
   "9837829429": ["Akaza", "Buyer 1 - 1244768892010893423"],
   "5044068287": ["Force", "Nextiz"],
   "10815764972": ["Saiyan", "Force", "Panel", "Star Platinum_STAND", "Soft & Wet_STAND", "Cursed"],
-  "16917269": ["All", "Panel", "Clubstar54"]
+  "16917269": ["All", "Panel", "Clubstar54"],
+  "1107815994": ["Force", "Saiyan", "wish"]
 }
